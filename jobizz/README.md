@@ -47,7 +47,7 @@ This application enables users to explore a range of job opportunities. It offer
 
 ### Login Screen
 
-![Login Screen](./assets/Loginscreenshot.png)
+![Login Screen]([./assets/Loginscreenshot.png](https://github.com/Bismark-Darfour/rn-assignment4-11286009/blob/main/jobizz/assets/Loginscreenshot.png))
 
 **Description:** This screenshot shows the Login screen of the application. With this login sceen, user details are stored in states and rendered on the home screen as specified in the instructions
 
