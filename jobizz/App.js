@@ -9,7 +9,7 @@ const Stack = createStackNavigator();
 
 
 
-//export function
+//export function to
 export default function App() {
   return (
     <NavigationContainer>
