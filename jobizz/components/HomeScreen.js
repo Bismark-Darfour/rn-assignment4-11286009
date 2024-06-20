@@ -4,7 +4,7 @@ import Search from './search';
 import CategoryImage from './cardsImage';
 import PopularJobs from './popularJobs';
 
-
+// now 
 export default function HomeScreen({ route }) {
   const { name, email } = route.params;
   return (
