@@ -54,7 +54,7 @@ This application enables users to explore a range of job opportunities. It offer
 
 ### Home Screen
 
-![Home Screen](./assets/HomeScreenshot.png)
+![Home Screen]([./assets/HomeScreenshot.png](https://github.com/Bismark-Darfour/rn-assignment4-11286009/blob/main/jobizz/assets/HomeScreenshot.png))
 
 **Description:** This screenshot shows the home screen of the application. It includes the
 user details and present jobs available to the user.
