@@ -11,7 +11,7 @@ function PopularJobs() {
     { src: require('../assets/google.png'), job: 'Product Manager', company: 'Google', place: "Accra, Ghana", salary: "$160,000", backgroundColor: '#F7F0E8' },
     { src: require('../assets/google.png'), job: 'Product Manager', company: 'Google', place: "Accra, Ghana", salary: "$160,000", backgroundColor: '#F7F0E8' },
     { src: require('../assets/google.png'), job: 'Product Manager', company: 'Google', place: "Accra, Ghana", salary: "$160,000", backgroundColor: '#F7F0E8' },
-    // Add more images as needed
+    // These are my images
 ];
   return (
     <View styles={styles.container}>
